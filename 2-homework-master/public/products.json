@@ -1,0 +1,32 @@
+{
+    "products":
+    [
+        {
+            "id":1,
+            "name":"Oh My Deer",
+            "price" :"15",
+            "image":"1.png",
+            "colour": "red"
+        },
+        {
+            "id":2,
+            "name":"Awoken Hero",
+            "price" :"15",
+            "image":"2.png",
+            "colour": "red"
+        },
+        {
+            "id":3,
+            "name":"Ravenna",
+            "price" :"15",
+            "image":"1.png",
+            "colour": "red"
+        },
+        {
+            "id":4,
+            "name":"Caribou",
+            "price" :"15",
+            "image":"4.png",
+            "colour": "red"
+        }
+]}
